@@ -9,9 +9,13 @@ redirect_from:
 
 About Me
 ======
-I'm Siyuan Cen (岑思远), a first year master at [UMASS Amherst](https://www.umass.edu/), supervised by Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). Before that, I received my bachelor degree from [Nanjing University]() in 2024, where I'm lucky to work closely with Prof. [Ying Tai](https://tyshiwo.github.io/).
+I'm **Siyuan Cen (岑思远)**, a first year master at [UMASS Amherst](https://www.umass.edu/), supervised by Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). Before that, I received my bachelor degree from [Nanjing University]() in 2024, where I'm lucky to work closely with Prof. [Ying Tai](https://tyshiwo.github.io/).
 
-My research focuses on Computer Vision, Robotics and Embodied AI. Currently I'm working on 3D motion diffusion generation.
+My research centers on Computer Vision, Robotics, and Embodied AI, with a long-term goal of enabling machines to perceive, interpret, and act upon information, overcoming the limitations of various modalities.
+
+Current Research
+======
+Currently I'm working on 3D motion diffusion generation.
 
 Publications
 ======
