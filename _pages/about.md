@@ -15,8 +15,14 @@ My research centers on Computer Vision, Robotics, and Embodied AI, with a long-t
 
 Current Research
 ======
-Currently I'm working on 3D motion diffusion generation.
+Currently I'm working on **video diffusion generation**. Specificly, my interest focuses on **camera control human video**. 
 
 Publications
 ======
-1. RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text
+<span style="font-size: 24px;">1. RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text</span>
+*preprint 2024*
+Jiaben Chen, Xin Yan, Yihang Chen, **Siyuan Cen**, Qinwei Ma, Haoyu Zhen, Kaizhi Qian, Lie Lu, Chuang Gan
+
+<span style="font-size: 24px;">2. Adversarial Attacks on Large Language Model-Based System and Mitigating Strategies: A Case Study on ChatGPT</span>
+*Security and Communication Networks 2023*
+Bowen Liu, Boao Xiao, Xutong Jiang, **Siyuan Cen**, Xin He, Wanchun Dou
