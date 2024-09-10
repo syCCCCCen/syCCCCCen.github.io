@@ -30,9 +30,9 @@ Bowen Liu, Boao Xiao, Xutong Jiang, **Siyuan Cen**, Xin He, Wanchun Dou</span>
 Awards
 ====
 <ul>
-  <li>*2024.08* Champion of Jiangsu University Badminton Exchange Match</li>
-  <li>*2023* People's Third Class Scholarship</li>
-  <li>*2022* Qing Ying Fei Fan Scholarship</li>
-  <li>*2021.08* The sixth place of badminton in Jiangsu University Games</li>
-  <li>*2021* People's First Class Scholarship</li>
+  <li><i>2024.08</i> Champion of Jiangsu University Badminton Exchange Match</li>
+  <li><i>2023</i> People's Third Class Scholarship</li>
+  <li><i>2022</i> Qing Ying Fei Fan Scholarship</li>
+  <li><i>2021.08</i> The sixth place of badminton in Jiangsu University Games</li>
+  <li><i>2021</i> People's First Class Scholarship</li>
 </ul>
