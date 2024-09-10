@@ -19,14 +19,10 @@ Currently I'm working on **video diffusion generation**. Specificly, my interest
 
 Publications
 ======
-<span style="font-size: 20px;">1. RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text</span>
-
-*preprint 2024*
-
+**<span style="font-size: 20px;">1. RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text</span>**<br>
+*preprint 2024*<br>
 Jiaben Chen, Xin Yan, Yihang Chen, **Siyuan Cen**, Qinwei Ma, Haoyu Zhen, Kaizhi Qian, Lie Lu, Chuang Gan
 
-<span style="font-size: 20px;">2. Adversarial Attacks on Large Language Model-Based System and Mitigating Strategies: A Case Study on ChatGPT</span>
-
-*Security and Communication Networks 2023*
-
+**<span style="font-size: 20px;">2. Adversarial Attacks on Large Language Model-Based System and Mitigating Strategies: A Case Study on ChatGPT</span>**<br>
+*Security and Communication Networks 2023*<br>
 Bowen Liu, Boao Xiao, Xutong Jiang, **Siyuan Cen**, Xin He, Wanchun Dou
