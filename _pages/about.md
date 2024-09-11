@@ -36,3 +36,10 @@ Awards
   <li><i>2021.08</i> The sixth place of badminton in Jiangsu University Games</li>
   <li><i>2021</i> People's First Class Scholarship</li>
 </ul>
+
+Experience
+====
+2024-Now UMass Amherst
+2023-2024 MIT-IBM Watson AI Lab
+2023-2024 Huijuan Xu's Lab @ PSU
+2020-2024 Nanjing University
