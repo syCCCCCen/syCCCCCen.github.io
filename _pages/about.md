@@ -39,10 +39,10 @@ Awards
 
 Experience
 ====
-<span style="font-size: 15px;">2024-Now **UMass Amherst**
+<span style="font-size: 15px;">2024-Now **UMass Amherst**</span>
 
-2023-2024 **MIT-IBM Watson AI Lab**
+<span style="font-size: 15px;">2023-2024 **MIT-IBM Watson AI Lab**</span>
 
-2023-2024 **Huijuan Xu's Lab @ PSU**
+<span style="font-size: 15px;">2023-2024 **Huijuan Xu's Lab @ PSU**</span>
 
-2020-2024 **Nanjing University**</span>
+<span style="font-size: 15px;">2020-2024 **Nanjing University**</span>
