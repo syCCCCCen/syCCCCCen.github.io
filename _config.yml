@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/syCCCCCen/image/blob/main/img.jpg"
+  avatar           : "https://github.com/syCCCCCen/Img/blob/main/img.jpg"
   name             : "Siyuan Cen"
   pronouns         : # example: "she/her"  
   bio              : "1st year MSCS in UMass Amherst. Supervisor: Chuang Gan<br><br><b>Embrace the unknown</b>"
