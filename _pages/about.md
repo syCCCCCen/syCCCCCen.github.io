@@ -48,5 +48,4 @@ Experience
 2023-2024 **Huijuan Xu's Lab @ PSU**
 
 2020-2024 **Nanjing University**
-
 </span>
