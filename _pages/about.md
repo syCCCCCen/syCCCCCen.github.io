@@ -40,6 +40,9 @@ Awards
 Experience
 ====
 2024-Now UMass Amherst
+
 2023-2024 MIT-IBM Watson AI Lab
+
 2023-2024 Huijuan Xu's Lab @ PSU
+
 2020-2024 Nanjing University
